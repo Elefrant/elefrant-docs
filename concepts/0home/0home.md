@@ -1,4 +1,4 @@
-# Sails.js Documentation > Core Concepts
+# Elefrant Documentation > Core Concepts 
 
 
 ### Table of Contents
