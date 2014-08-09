@@ -1,6 +1,6 @@
-# sails-docs-reference
+# elefrant-docs-reference
 
-Reference Section of Sails.js documentation
+Reference Section of Elefrant documentation
 
 
 
@@ -15,17 +15,17 @@ Reference Section of Sails.js documentation
    |
    |- Response (res)
    |
-   |- Config (sails.config)
+   |- Config (elefrant.config)
    |
-   |- Model (sails.models)
+   |- Model (elefrant.models)
    |
-   |- Sockets (sails.sockets)
+   |- Sockets (elefrant.sockets)
    |
    |- Sails CLI
    |
    |- Blueprint API
    |
-   |- Browser SDK (sails.io.js)
+   |- Browser SDK (elefrant.io.js)
 
  |
  |- Concepts

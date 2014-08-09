@@ -1,4 +1,4 @@
-sails-docs-anatomy
+elefrant-docs-anatomy
 ==================
 
-Anatomy documentation for www.sailsjs.org
+Anatomy documentation for www.elefrant.com
